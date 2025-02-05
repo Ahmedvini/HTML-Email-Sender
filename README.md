@@ -88,9 +88,8 @@ This Python script allows you to create Gmail drafts from HTML files. It uses th
 
 1. Run the script:
     ```bash
-    python your_script_name.py
+    python html email sender.py
     ```
-    (Replace `your_script_name.py` with the actual name of your Python file.)
 
 2. A file dialog will open. Select your `credentials.json` file.
 
