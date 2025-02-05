@@ -1,6 +1,7 @@
 # Gmail Draft Creator
 
 This Python script allows you to create Gmail drafts from HTML files. It uses the Gmail API and requires users to provide their own Google Cloud credentials.
+![HTML Email Sender Icon](https://raw.githubusercontent.com/Ahmedvini/HTML-Email-Sender/main/assets/Icon.png)
 
 ## Features
 
